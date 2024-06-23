@@ -9,21 +9,15 @@
 
 Brewery-details page:
 
-![Brewery-details page](https://github.com/RajshreeGupta05/Brewery-Review/blob/main/brew_list.png)
+![Brewery-details page](https://github.com/RajshreeGupta05/Brewery-Review/blob/main/Screenshots/brew_list.png)
 <br>
 
 Reviews section:
-![Reviews section](https://github.com/RajshreeGupta05/Brewery-Review/blob/main/review.png)
+![Reviews section](https://github.com/RajshreeGupta05/Brewery-Review/blob/main/Screenshots/review.png)
 <br>
 
 
 
-
-
-Home page:
-
-![Home page](https://github.com/Rmariner25/moengage_brewery/blob/main/Screenshots/home_page.jpg) 
-<br>
 
 Profile page:
 
