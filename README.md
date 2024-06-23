@@ -9,22 +9,16 @@
 
 Brewery-details page:
 
-![Brewery-details page](https://github.com/Rmariner25/moengage_brewery/blob/main/Screenshots/details_page.jpg)
+![Brewery-details page](https://github.com/RajshreeGupta05/Brewery-Review/blob/main/brew_list.png)
 <br>
 
 Reviews section:
-![Reviews section](https://github.com/Rmariner25/moengage_brewery/blob/main/Screenshots/reviews_section.jpg)
+![Reviews section](https://github.com/RajshreeGupta05/Brewery-Review/blob/main/review.png)
 <br>
 
-Search-autocomplete:
 
-![Search-autocomplete](https://github.com/Rmariner25/moengage_brewery/blob/main/Screenshots/search_autocomplete.jpg)
-<br>
 
-Search page:
 
-![Search page](https://github.com/Rmariner25/moengage_brewery/blob/main/Screenshots/search_page.jpg) 
-<br>
 
 Home page:
 
@@ -33,17 +27,17 @@ Home page:
 
 Profile page:
 
-![Profile page](https://github.com/Rmariner25/moengage_brewery/blob/main/Screenshots/profile_page.jpg)
+![Profile page](https://github.com/Rmariner25/moengage_brewery/blob/main/Screenshots/profile.png)
 <br>
 
 Login page:
 
-![Log-in page](https://github.com/Rmariner25/moengage_brewery/blob/main/Screenshots/login_page.jpg)
+![Log-in page](https://github.com/RajshreeGupta05/Brewery-Review/blob/main/login_page.png)
 <br>
 
 Sign-up page:
 
-![Sign-up page](https://github.com/Rmariner25/moengage_brewery/blob/main/Screenshots/signup_page.jpg)
+![Sign-up page](https://github.com/RajshreeGupta05/Brewery-Review/blob/main/sign_up.png)
 <br>
 ## Configuring AWS RDS 
 
@@ -60,7 +54,7 @@ Adding shortly.
 1. First, clone the repository to your local machine: 
   
    ```bash
-   git clone https://github.com/Rmariner25/django_web_app.git
+   git clone https://github.com/RajshreeGupta05/Brewery-Review.git
    ```
   
 2. Then cd into the project folder (base directory)
