@@ -21,17 +21,17 @@ Reviews section:
 
 Profile page:
 
-![Profile page](https://github.com/Rmariner25/moengage_brewery/blob/main/Screenshots/profile.png)
+![Profile page](https://github.com/RajshreeGupta05/Brewery-Review/blob/main/Screenshots/profile.png)
 <br>
 
 Login page:
 
-![Log-in page](https://github.com/RajshreeGupta05/Brewery-Review/blob/main/login_page.png)
+![Log-in page](https://github.com/RajshreeGupta05/Brewery-Review/blob/main/Screenshots/login_page.png)
 <br>
 
 Sign-up page:
 
-![Sign-up page](https://github.com/RajshreeGupta05/Brewery-Review/blob/main/sign_up.png)
+![Sign-up page](https://github.com/RajshreeGupta05/Brewery-Review/blob/main/Screenshots/sign_up.png)
 <br>
 ## Configuring AWS RDS 
 
