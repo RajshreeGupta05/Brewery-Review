@@ -30,6 +30,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+     'django_web_app',
     
 ]
 
@@ -97,13 +98,10 @@ PASSWORD_RESET_TIMEOUT = 3600
 
 
 
-LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = 'en-us' 
+TIME_ZONE = '' # see django documentation
 
-<<<<<<< HEAD
-TIME_ZONE = '' # see django documentation 
-=======
-TIME_ZONE = 'utc' # see django documentation 
->>>>>>> 4db37d296eb22fb4036d72a40926a3d29d311672
+TIME_ZONE = 'utc' # see django documentation  4db37d296eb22fb4036d72a40926a3d29d311672
 
 USE_I18N = True
 
