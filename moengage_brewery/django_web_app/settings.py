@@ -9,7 +9,7 @@ SECRET_KEY = 'fill_here'
 # configure in production
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['127.0.0.1']
 
 HOST = os.environ.get("HOST", default="http://localhost:8000/")
 
